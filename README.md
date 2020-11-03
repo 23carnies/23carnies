@@ -15,16 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/23carnies/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=23carnies&show_icons=true&hide=issues,contribs&theme=ayu-mirage&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/23carnies/bilingue">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=23carnies&repo=bilingue" />
-</a>
-
-
 [![github stats](https://github-readme-stats.vercel.app/api?username=23carnies&show_icons=true&hide=issues,contribs&theme=ayu-mirage)](https://github.com/23carnies/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23carnies&langs_count=8&show_icons=true&theme=ayu-mirage&layout=compact)](https://github.com/23carnies/github-readme-stats)
+
+<a href="https://github.com/23carnies/MeetYourMakerCoupled">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=23carnies&show_icons=true&hide=issues,contribs&theme=ayu-mirage&repo=MeetYourMakerCoupled" />
+</a>
+<a href="https://github.com/23carnies/bilingue">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=23carnies&repo=bilingue&theme=ayu-mirage" />
+</a>
+<a href="https://github.com/23carnies/Tic_Tac_Toe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=23carnies&repo=Tic_Tac_Toe&theme=ayu-mirage" />
+</a>
+<a href="https://github.com/23carnies/psychedelicRoulette">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=23carnies&repo=psychedelicRoulette&theme=ayu-mirage" />
+</a>
+
+
+
 
 
