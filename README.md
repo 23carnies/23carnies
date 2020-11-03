@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![github stats](https://github-readme-stats.vercel.app/api?username=23carnies&hide=contribs,issues&count_private=true&show_icons=true&theme=kacho_ga)](https://github.com/23carnies/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=23carnies&hide=contribs,issues&count_private=true&show_icons=true&theme=react)](https://github.com/23carnies/github-readme-stats)
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=23carnies&show_icons=true&hide=issues,contribs&theme=slateorange)](https://github.com/23carnies/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=23carnies&show_icons=true&hide=issues,contribs&theme=omni)](https://github.com/23carnies/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23carnies&langs_count=8&show_icons=true&theme=yeblu)](https://github.com/23carnies/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23carnies&langs_count=8&show_icons=true&theme=flag_india&layout=compact)](https://github.com/23carnies/github-readme-stats)
