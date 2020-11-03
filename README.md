@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![github stats](https://github-readme-stats.vercel.app/api?username=23carnies&hide=contribs,issues&count_private=true&show_icons=true&theme=radical)]
 
-[![github stats](https://github-readme-stats.vercel.app/api?theme=great-gatsby?username=23carnies)](https://github.com/23carnies/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=23carnies&show_icons=true&hide=issues,contribs&theme=great-gatsby)](https://github.com/23carnies/github-readme-stats)
