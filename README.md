@@ -22,16 +22,26 @@ Here are some ideas to get you started:
 
 --------------
 
-# 📫 Get in touch 
+## 📫 Get in touch 
   <a href="https://twitter.com/23carnies"><img src="https://i.imgur.com/3ls1cOg.png"></a>
   <a href="https://www.linkedin.com/in/karen-lobin-perkins/"><img src="https://i.imgur.com/SqoBk8E.png"></a>
   <a href="http://karenlobinperkins.com"><img src="https://i.imgur.com/VOjyxbJ.png"></a>
 
 ----------------
 
+<!-- ### Skills
+<img src="https://i.imgur.com/v7YVByv.png">
+<img src="https://i.imgur.com/lvbTzCD.png">
+<img src="https://i.imgur.com/kN0OZBi.png">
+<img src="https://i.imgur.com/A9y0BNz.png">
+<img src="">
+<img src="">
+<img src="">. -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=23carnies&show_icons=true&hide=issues&theme=ayu-mirage)](https://github.com/23carnies/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23carnies&langs_count=8&show_icons=true&theme=ayu-mirage&layout=compact)](https://github.com/23carnies/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=23carnies&show_icons=true&theme=vision-friendly-dark)](https://github.com/23carnies/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23carnies&langs_count=8&show_icons=true&theme=chartreuse-dark)](https://github.com/23carnies/github-readme-stats)
+
+-----------------
 
 <!--
 <a href="https://github.com/23carnies/MeetYourMakerCoupled">
